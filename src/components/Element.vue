@@ -13,7 +13,7 @@ li {
 </template>
 
 <script lang="ts">
-import { defineComponent, onUpdated, ref, toRefs } from 'vue'
+import { defineComponent, onUpdated, toRefs } from 'vue'
 import { store } from '../state/state'
 
 export default defineComponent({
